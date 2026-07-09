@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Real-Time UAV Mapping Banner" width="100%">
+  <img src="assets/banner.jpg" alt="Real-Time UAV Mapping Banner" width="100%">
 </p>
 
 <h1 align="center">Real-Time UAV Mapping</h1>
@@ -180,6 +180,12 @@ pip install -r requirements.txt
 This project is licensed under the MIT License.
 
 See the `LICENSE` file for more details.
+
+# 🙏 Acknowledgements
+
+This work was developed as part of the SUAS UAV Mapping pipeline, focusing on real-time aerial image compositing for incremental orthomosaic generation.
+
+Special thanks to the members of the mapping team for providing the registration pipeline and evaluation datasets.
 
 # Author
 
